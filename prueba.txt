@@ -1,0 +1,15 @@
+archivo
+archivo1
+archivo2
+archivoDeVarios.txt
+crpetaNueva
+depende.jpg
+Descargas
+hola2.txt
+hola.txt
+index.html
+nose123.txt
+nose1.txt
+nose2.txt
+nose3.txt
+nose4.txt
